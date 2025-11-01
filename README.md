@@ -1,4 +1,6 @@
 # ⚕️ AI Medical Specialty Classifier (NLP Application)
+🚀 LIVE DEMO:
+[Click Here to Test the AI Classifier Now!](YOUR_PUBLIC_STREAMLIT_URL_HERE)
 
 ### Project Overview
 This project delivers a complete, end-to-end application that uses **Natural Language Processing (NLP)** and Machine Learning to automatically classify raw clinical text (like patient notes or symptom descriptions) into one of several predefined medical specialties (e.g., Cardiology, Orthopedics, Gastroenterology).
